@@ -35,7 +35,7 @@
 
 ![图片alt](https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1635319587379_20211027072627561648.png)
 
-> For more information about Serverless Devs, please refer to [project introduction document](./docs/en/readme.md)
+> For more information about Serverless Devs, please refer to [project introduction document](./docs/en/readme.md).
 
 # Get started
 
@@ -46,7 +46,7 @@ $ npm install @serverless-devs/s -g
 ```
 ❸ Execute the command `s` on the command line and press enter to start your Serverless journey；   
 
-> For more details, please refer to [Serverless Devs installation document](./docs/en/install.md) and [Quick start guide](./docs/en/quick_start.md)
+> For more details, please refer to [Serverless Devs installation document](./docs/en/install.md) and [Quick start guide](./docs/en/quick_start.md).
 
 # Documentation
 
@@ -56,9 +56,9 @@ $ npm install @serverless-devs/s -g
 - [Configuration inheritance/multi-environment](./docs/en/extend.md)
 - [CI/CD platform integration](./docs/en/cicd.md)
 
-> If you want to contribute package (including components and Applications) to serverless devs, you can refer to [Package development document](./docs/en/package_dev.md)   
+> If you want to contribute package (including components and Applications) to serverless devs, you can refer to [Package development document](./docs/en/package_dev.md).   
 
-> Serverless devs naturally supports yaml mode and cli mode. For their differences and trial scenarios, please refer to the document [**Yaml mode and CLI mode comparison**](./docs/en/yaml_and_cli.md)；About [**Exit Code Definition**](./docs/en/tool.md#exit-code-definition) , [**Yaml File Priority Specification**](./docs/en/tool.md#yaml-file-priority-specification) , [**Key usage order and specification**](./docs/en/tool.md#Key-usage-order-and-specification) , [**Setting keys through environment variables** ](./docs/en/tool.md#Set-key-through-environment-variable) For more details about project design, please refer to [**Developer tool design document**](./docs/en/tool.md )
+> Serverless devs naturally supports yaml mode and cli mode. For their differences and trial scenarios, please refer to the document [**Yaml mode and CLI mode comparison**](./docs/en/yaml_and_cli.md)；About [**Exit Code Definition**](./docs/en/tool.md#exit-code-definition) , [**Yaml File Priority Specification**](./docs/en/tool.md#yaml-file-priority-specification) , [**Key usage order and specification**](./docs/en/tool.md#Key-usage-order-and-specification) , [**Setting keys through environment variables** ](./docs/en/tool.md#Set-key-through-environment-variable) For more details about project design, please refer to [**Developer tool design document**](./docs/en/tool.md ).
 
 # Related resources
 
@@ -77,7 +77,7 @@ FaaS platforms/products currently supported by the Serverless Devs project:
 
 > Although the above FaaS platforms/products have been contributed or are under continuous maintenance, we still welcome everyone to contribute/maintain. In addition, other FaaS platforms/products (such as Google Cloud Platform Functions, Azure Functions, etc.) , we also very much hope that the small partners in the community can participate in the development and contribution.
 
-> 🚀 In addition, the Serverless Devs project also has many excellent components and applications, you can refer to [Awesome](./docs/en/awesome.md)
+> 🚀 In addition, the Serverless Devs project also has many excellent components and applications, you can refer to [Awesome](./docs/en/awesome.md).
 
 # Project expectations
 
