@@ -42,7 +42,7 @@ $ yarn global add @serverless-devs/s
 
 1. 找到一个最新的发布版本（Release）下载 `s-*-win.exe.zip` 文件（其中 * 表示版本号，如 2.1.9）。
 2. 解压文件 `s-*-win.exe.zip` 得到 `s-*.win.exe` 文件，重名为 `s.exe`。
-3. 讲 s.exe 文件拷贝到系统 PATH 目录即可，比如：`C:\WINDOWS\System32`
+3. 将 s.exe 文件拷贝到系统 PATH 目录即可，比如：`C:\WINDOWS\System32`
 4. 打开命令终端，执行 `s.exe --version`，查看返回版本号以验证是否安装成功。
 
 
